@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="./lib/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="./css/index.css">
+
+</head>
+
+<body>
+    <div class="navbar">
+        <ul>
+            <li><img id="img" src="./img/fifa_background.png" /></li>
+            <li><a style="font-size:20px" onclick="show('home')"><b>FIFA 20 Players Data</b></a></li>
+            <li><a class="active" href="#bar" onclick="show('bar')">Bar/Histogram</a></li>
+            <li><a href="#scatter" onclick="show('scatter')">Scatter Plot</a></li>
+        </ul>
+    </div>
+    <div class="homediv">
+        <h1 style="text-align: center; font-family: sans-serif;">FIFA 20 Players Data</h1>
+        <p style="text-align: center; font-family: sans-serif;">Click on Bar/Histogram for Bar or Histogram representation of the players data</p>
+        <p style="text-align: center; font-family: sans-serif;">Click on Scatter Plot for scattering the players data based on two different features</p>
+    </div>
+    <div class="bardiv">
+        <div class="dropdiv">
+            <label htmlFor="columnData"><b>Choose a feature: </b></label>
+            <select id="barselect">
+        <option disabled selected value> -- select an option -- </option>
+      </select>
+
+            <label htmlFor="filterData" id="filterData"><b>Choose a filter: </b></label>
+            <select id="barfilterselect">
+        <option selected value=""> -- select an option -- </option>
+      </select>
+        </div>
+        <svg class="barsvg" width="1200" height="625"></svg>
+    </div>
+    <div class="scatterdiv">
+        <div class="dropdivscatter">
+            <div id="dropdivscatter2">
+                <label htmlFor="columnData"><b>Choose a feature: </b></label>
+                <select id="scatselect">
+          <option disabled selected value> -- select an option -- </option>
+        </select>
+            </div>
+            <div id="radiodivscatter2">
+                <form id="radioscat">
+                    <input type='radio' id="xscat" name="axis" value="X" checked></input>
+                    <label for="xscat">X</label>
+                    <input type='radio' id="yscat" name="axis" value="Y"></input>
+                    <label for="yscat">Y</label>
+                </form>
+            </div>
+            <div id="axisscatter2">
+
+            </div>
+        </div>
+        <svg class="scattersvg" width="1200" height="575"></svg>
+    </div>
+
+
+    <script src="./js/barchart.js"></script>
+    <script src="./js/histogram.js"></script>
+    <script src="./js/scatterplot.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

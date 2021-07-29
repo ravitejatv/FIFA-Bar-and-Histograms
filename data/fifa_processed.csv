@@ -1,0 +1,502 @@
+short_name,age,height_cm,weight_kg,nationality,club,overall,preferred_foot,skill_moves,body_type,team_position,team_jersey_number,pace,shooting,passing,dribbling,defending,physic
+L. Messi,27,169,67,Argentina,FC Barcelona,93,Left,4,Normal,CF,10.0,93.0,89.0,86.0,96.0,27.0,63.0
+Cristiano Ronaldo,29,185,80,Portugal,Real Madrid,92,Right,5,Normal,LW,7.0,93.0,93.0,81.0,91.0,32.0,79.0
+A. Robben,30,180,80,Netherlands,FC Bayern München,90,Left,4,Normal,SUB,10.0,93.0,86.0,83.0,92.0,32.0,64.0
+Z. Ibrahimović,32,195,95,Sweden,Paris Saint-Germain,90,Right,4,Normal,ST,10.0,76.0,91.0,81.0,86.0,34.0,86.0
+M. Neuer,28,193,92,Germany,FC Bayern München,90,Right,1,Normal,GK,1.0,,,,,,
+L. Suárez,27,181,81,Uruguay,FC Barcelona,89,Right,4,Normal,RES,9.0,83.0,87.0,79.0,88.0,42.0,79.0
+E. Hazard,23,173,74,Belgium,Chelsea,88,Right,4,Normal,LM,10.0,90.0,82.0,84.0,91.0,32.0,64.0
+R. van Persie,30,187,71,Netherlands,Manchester United,88,Left,4,Normal,RS,20.0,74.0,90.0,82.0,83.0,33.0,68.0
+B. Schweinsteiger,29,183,79,Germany,FC Bayern München,88,Right,3,Normal,SUB,31.0,61.0,81.0,85.0,82.0,78.0,80.0
+F. Ribéry,31,170,72,France,FC Bayern München,88,Right,5,Normal,SUB,7.0,89.0,78.0,85.0,92.0,29.0,62.0
+Falcao,28,177,72,Colombia,Manchester United,88,Right,4,Normal,SUB,9.0,77.0,86.0,64.0,81.0,40.0,73.0
+G. Bale,24,183,74,Wales,Real Madrid,87,Left,4,Lean,RW,11.0,94.0,83.0,83.0,84.0,63.0,81.0
+R. Lewandowski,25,184,78,Poland,FC Bayern München,87,Right,4,Normal,LS,9.0,80.0,84.0,74.0,85.0,39.0,78.0
+P. Lahm,30,170,66,Germany,FC Bayern München,87,Right,3,Normal,RCM,21.0,76.0,56.0,84.0,83.0,87.0,67.0
+Sergio Ramos,28,183,75,Spain,Real Madrid,87,Right,3,Normal,LCB,4.0,79.0,61.0,71.0,66.0,87.0,82.0
+Thiago Silva,29,183,79,Brazil,Paris Saint-Germain,87,Right,3,Normal,LCB,2.0,78.0,57.0,72.0,72.0,90.0,80.0
+David Silva,28,170,67,Spain,Manchester City,87,Left,4,Normal,CAM,21.0,76.0,77.0,86.0,89.0,33.0,57.0
+L. Modrić,28,174,65,Croatia,Real Madrid,87,Right,4,Lean,RCM,19.0,76.0,74.0,85.0,89.0,71.0,70.0
+J. Rodríguez,22,180,75,Colombia,Real Madrid,86,Left,4,Normal,CAM,10.0,79.0,80.0,84.0,85.0,40.0,72.0
+Neymar,22,175,64,Brazil,FC Barcelona,86,Right,5,Lean,LW,11.0,90.0,80.0,72.0,92.0,30.0,58.0
+T. Courtois,22,199,88,Belgium,Chelsea,86,Left,1,Lean,GK,13.0,,,,,,
+M. Hummels,25,192,90,Germany,Borussia Dortmund,86,Right,2,Normal,SUB,15.0,66.0,59.0,75.0,71.0,88.0,78.0
+A. Di María,26,180,70,Argentina,Manchester United,86,Left,4,Lean,LCM,7.0,90.0,79.0,83.0,87.0,57.0,71.0
+M. Reus,25,181,73,Germany,Borussia Dortmund,86,Right,4,Lean,SUB,11.0,91.0,86.0,84.0,86.0,33.0,65.0
+T. Müller,24,186,75,Germany,FC Bayern München,86,Right,3,Lean,RS,25.0,81.0,84.0,82.0,80.0,46.0,72.0
+S. Agüero,26,172,74,Argentina,Manchester City,86,Right,4,Normal,ST,16.0,88.0,86.0,77.0,88.0,28.0,66.0
+M. Özil,25,183,76,Germany,Arsenal,86,Left,4,Lean,LW,11.0,74.0,74.0,86.0,87.0,27.0,58.0
+Xavi,34,170,68,Spain,FC Barcelona,86,Right,3,Normal,SUB,6.0,66.0,72.0,91.0,85.0,60.0,58.0
+Y. Touré,31,189,90,Ivory Coast,Manchester City,86,Right,3,Lean,LDM,42.0,76.0,82.0,81.0,79.0,80.0,90.0
+W. Rooney,28,176,83,England,Manchester United,86,Right,3,Stocky,LS,10.0,76.0,87.0,80.0,83.0,44.0,87.0
+V. Kompany,28,192,85,Belgium,Manchester City,86,Right,2,Normal,RCB,4.0,73.0,56.0,69.0,67.0,87.0,81.0
+M. Götze,22,176,72,Germany,FC Bayern München,85,Right,4,Normal,CM,19.0,80.0,74.0,82.0,89.0,35.0,63.0
+Sergio Busquets,25,189,73,Spain,FC Barcelona,85,Right,3,Lean,CDM,5.0,56.0,59.0,78.0,75.0,81.0,81.0
+T. Kroos,24,182,78,Germany,Real Madrid,85,Right,3,Normal,LCM,8.0,58.0,81.0,89.0,84.0,58.0,69.0
+K. Benzema,26,184,79,France,Real Madrid,85,Right,4,Normal,ST,9.0,84.0,84.0,75.0,82.0,30.0,74.0
+E. Cavani,27,184,71,Uruguay,Paris Saint-Germain,85,Right,3,Lean,RW,9.0,79.0,83.0,70.0,80.0,41.0,81.0
+Diego Costa,25,188,81,Spain,Chelsea,85,Right,3,Normal,ST,19.0,82.0,83.0,63.0,79.0,40.0,88.0
+A. Vidal,27,180,75,Chile,Juventus,85,Right,3,Normal,SUB,23.0,78.0,78.0,80.0,81.0,81.0,83.0
+H. Lloris,27,188,78,France,Tottenham Hotspur,85,Left,1,Lean,GK,1.0,,,,,,
+Javi Martinez,25,190,81,Spain,FC Bayern München,85,Right,2,Normal,SUB,8.0,53.0,61.0,72.0,68.0,84.0,85.0
+Juan Mata,26,174,63,Spain,Manchester United,85,Left,4,Lean,CAM,8.0,74.0,75.0,84.0,87.0,31.0,60.0
+J. Boateng,25,192,90,Germany,FC Bayern München,85,Right,3,Normal,CB,17.0,77.0,50.0,66.0,69.0,83.0,82.0
+P. Čech,32,196,90,Czech Republic,Chelsea,85,Left,1,Normal,SUB,1.0,,,,,,
+C. Tévez,30,173,75,Argentina,Juventus,85,Right,3,Stocky,RS,10.0,86.0,86.0,78.0,87.0,46.0,84.0
+Piqué,27,192,85,Spain,FC Barcelona,84,Right,2,Normal,RCB,3.0,66.0,54.0,69.0,60.0,86.0,76.0
+A. Turan,27,177,76,Turkey,Atlético Madrid,84,Right,4,Normal,LM,10.0,76.0,74.0,83.0,86.0,61.0,72.0
+A. Sánchez,25,171,62,Chile,Arsenal,84,Right,4,Normal,RW,17.0,88.0,81.0,75.0,87.0,39.0,66.0
+Oscar,22,179,67,Brazil,Chelsea,84,Right,4,Lean,CAM,8.0,81.0,75.0,80.0,85.0,43.0,44.0
+S. Nasri,27,175,75,France,Manchester City,84,Right,4,Normal,SUB,8.0,79.0,76.0,84.0,86.0,39.0,60.0
+M. Benatia,27,188,88,Morocco,FC Bayern München,84,Right,2,Normal,RCB,5.0,75.0,45.0,54.0,64.0,88.0,84.0
+S. Khedira,27,189,85,Germany,Real Madrid,84,Right,2,Normal,SUB,6.0,56.0,69.0,74.0,65.0,83.0,86.0
+G. Higuaín,26,184,82,Argentina,Napoli,84,Right,3,Normal,ST,9.0,81.0,84.0,68.0,80.0,30.0,71.0
+S. Sirigu,27,192,80,Italy,Paris Saint-Germain,84,Right,1,Normal,GK,30.0,,,,,,
+Casillas,33,185,84,Spain,Real Madrid,84,Left,1,Normal,GK,1.0,,,,,,
+A. Pirlo,35,177,68,Italy,Juventus,84,Right,2,Lean,SUB,21.0,43.0,69.0,91.0,82.0,55.0,59.0
+Xabi Alonso,32,183,77,Spain,FC Bayern München,84,Right,2,Normal,LCM,3.0,55.0,71.0,86.0,68.0,78.0,72.0
+D. De Rossi,30,185,83,Italy,Roma,84,Right,2,Normal,CDM,16.0,68.0,71.0,79.0,75.0,82.0,84.0
+G. Chiellini,29,186,76,Italy,Juventus,84,Left,2,Normal,SUB,3.0,76.0,51.0,55.0,56.0,87.0,86.0
+W. Sneijder,30,170,67,Netherlands,Galatasaray SK,84,Right,3,Normal,CAM,10.0,75.0,80.0,87.0,84.0,48.0,63.0
+Santi Cazorla,29,168,66,Spain,Arsenal,84,Right,4,Stocky,SUB,19.0,73.0,78.0,85.0,87.0,31.0,61.0
+K. Huntelaar,30,186,83,Netherlands,FC Schalke 04,84,Right,3,Lean,ST,25.0,68.0,85.0,64.0,72.0,32.0,73.0
+Cesc Fàbregas,27,179,85,Spain,Chelsea,84,Right,3,Normal,RDM,4.0,68.0,79.0,88.0,81.0,64.0,63.0
+D. Godín,28,186,78,Uruguay,Atlético Madrid,84,Right,2,Lean,LCB,2.0,67.0,48.0,62.0,60.0,86.0,78.0
+P. Pogba,21,188,80,France,Juventus,83,Right,4,Lean,LCM,6.0,76.0,78.0,79.0,83.0,73.0,88.0
+Isco,22,176,74,Spain,Real Madrid,83,Right,3,Normal,SUB,23.0,76.0,76.0,82.0,86.0,32.0,62.0
+I. Gündoğan,23,180,79,Germany,Borussia Dortmund,83,Right,4,Normal,SUB,8.0,79.0,70.0,83.0,86.0,67.0,70.0
+De Gea,23,193,82,Spain,Manchester United,83,Right,1,Lean,GK,1.0,,,,,,
+J. Cuadrado,26,176,66,Colombia,Fiorentina,83,Right,5,Lean,RW,11.0,93.0,77.0,76.0,87.0,57.0,71.0
+D. Sturridge,24,183,76,England,Liverpool,83,Left,4,Normal,SUB,15.0,89.0,82.0,69.0,81.0,29.0,70.0
+M. Pjanić,24,180,74,Bosnia Herzegovina,Roma,83,Right,3,Normal,RCM,15.0,72.0,75.0,85.0,84.0,63.0,66.0
+A. Ramsey,23,177,70,Wales,Arsenal,83,Right,3,Lean,RCM,16.0,71.0,78.0,79.0,80.0,70.0,77.0
+Pedro,26,169,64,Spain,FC Barcelona,83,Right,4,Normal,RW,7.0,83.0,76.0,78.0,84.0,37.0,60.0
+E. Garay,27,188,80,Argentina,Zenit St. Petersburg,83,Right,2,Normal,LCB,24.0,52.0,57.0,68.0,64.0,86.0,78.0
+B. Matuidi,27,175,70,France,Paris Saint-Germain,83,Left,2,Lean,LCM,14.0,78.0,67.0,76.0,76.0,84.0,82.0
+S. Ruffier,27,188,90,France,AS Saint-Étienne,83,Right,1,Normal,GK,16.0,,,,,,
+I. Rakitić,26,184,75,Croatia,FC Barcelona,83,Right,3,Normal,RCM,4.0,69.0,82.0,87.0,81.0,55.0,67.0
+A. Candreva,27,181,72,Italy,Lazio,83,Right,4,Lean,RW,87.0,85.0,79.0,82.0,84.0,57.0,74.0
+R. Weidenfeller,33,188,85,Germany,Borussia Dortmund,83,Left,1,Normal,GK,1.0,,,,,,
+J. Terry,33,187,90,England,Chelsea,83,Right,2,Normal,LCB,26.0,41.0,47.0,56.0,52.0,84.0,80.0
+P. Mertesacker,29,198,90,Germany,Arsenal,83,Right,2,Normal,RCB,4.0,31.0,41.0,57.0,48.0,87.0,76.0
+J. Toulalan,30,183,77,France,AS Monaco,83,Right,2,Normal,CDM,28.0,53.0,50.0,77.0,71.0,79.0,82.0
+Pepe,31,188,81,Portugal,Real Madrid,83,Right,2,Lean,RCB,3.0,73.0,51.0,58.0,59.0,84.0,83.0
+A. Barzagli,33,186,79,Italy,Juventus,83,Right,2,Normal,SUB,15.0,75.0,36.0,58.0,59.0,86.0,79.0
+N. Vidić,32,190,88,Serbia,Inter,83,Right,2,Normal,SUB,15.0,52.0,39.0,55.0,51.0,84.0,83.0
+J. Mascherano,30,174,74,Argentina,FC Barcelona,83,Right,2,Normal,SUB,14.0,69.0,59.0,70.0,69.0,84.0,80.0
+Negredo,28,186,79,Spain,Valencia CF,83,Left,3,Stocky,SUB,7.0,73.0,83.0,68.0,77.0,39.0,82.0
+Dani Alves,31,173,64,Brazil,FC Barcelona,83,Right,3,Normal,RB,22.0,86.0,70.0,79.0,83.0,76.0,68.0
+Jesús Navas,28,170,60,Spain,Manchester City,83,Right,4,Lean,RM,15.0,91.0,71.0,78.0,84.0,29.0,53.0
+Diego López,32,196,87,Spain,Milan,83,Right,1,Lean,GK,23.0,,,,,,
+I. Akinfeev,28,186,78,Russia,PFC CSKA Moscow,83,Right,1,Normal,GK,35.0,,,,,,
+J. Farfán,29,178,84,Peru,FC Schalke 04,83,Right,3,Normal,SUB,17.0,87.0,77.0,80.0,84.0,37.0,76.0
+João Moutinho,27,171,61,Portugal,AS Monaco,83,Right,3,Normal,RCM,8.0,74.0,75.0,83.0,82.0,71.0,72.0
+S. Handanovič,29,193,89,Slovenia,Inter,83,Right,1,Normal,GK,1.0,,,,,,
+Miranda,29,186,76,Brazil,Atlético Madrid,83,Right,2,Lean,RCB,23.0,76.0,49.0,56.0,57.0,84.0,79.0
+C. Marchisio,28,179,76,Italy,Juventus,83,Right,4,Lean,CDM,8.0,79.0,76.0,81.0,83.0,74.0,79.0
+C. Bravo,31,185,84,Chile,FC Barcelona,83,Right,1,Normal,GK,13.0,,,,,,
+E. Džeko,28,193,84,Bosnia Herzegovina,Manchester City,83,Right,3,Lean,SUB,10.0,71.0,84.0,68.0,78.0,36.0,71.0
+M. Mandžukić,28,187,84,Croatia,Atlético Madrid,83,Right,3,Lean,SUB,9.0,75.0,82.0,61.0,75.0,43.0,87.0
+S. Kagawa,25,172,64,Japan,Borussia Dortmund,83,Right,4,Lean,CAM,7.0,82.0,73.0,76.0,88.0,32.0,49.0
+Hulk,27,180,85,Brazil,Zenit St. Petersburg,83,Left,4,Stocky,RM,7.0,85.0,87.0,80.0,81.0,43.0,86.0
+C. Eriksen,22,177,71,Denmark,Tottenham Hotspur,82,Right,4,Normal,CAM,23.0,81.0,72.0,83.0,83.0,47.0,55.0
+M. ter Stegen,22,189,82,Germany,FC Barcelona,82,Right,1,Normal,SUB,1.0,,,,,,
+A. Griezmann,23,176,68,France,Atlético Madrid,82,Left,4,Normal,LS,7.0,85.0,77.0,76.0,83.0,30.0,68.0
+C. Vela,25,177,75,Mexico,Real Sociedad,82,Left,4,Normal,LW,11.0,86.0,77.0,74.0,85.0,30.0,65.0
+D. Alaba,22,180,75,Austria,FC Bayern München,82,Left,3,Normal,LCB,27.0,86.0,70.0,81.0,82.0,79.0,72.0
+Lucas,21,172,72,Brazil,Paris Saint-Germain,82,Right,4,Normal,SUB,7.0,93.0,73.0,76.0,87.0,44.0,63.0
+M. Hamšik,26,183,79,Slovakia,Napoli,82,Right,3,Lean,CAM,17.0,73.0,77.0,81.0,81.0,58.0,70.0
+M. Balotelli,23,188,80,Italy,Liverpool,82,Right,4,Normal,ST,45.0,82.0,82.0,68.0,81.0,30.0,79.0
+D. Mertens,27,169,61,Belgium,Napoli,82,Right,4,Normal,SUB,14.0,88.0,77.0,80.0,87.0,37.0,53.0
+Marcelo,26,174,75,Brazil,Real Madrid,82,Left,3,Normal,LB,12.0,81.0,67.0,78.0,84.0,77.0,79.0
+N. Matić,25,194,84,Serbia,Chelsea,82,Left,3,Lean,LDM,21.0,67.0,70.0,76.0,75.0,80.0,85.0
+B. Leno,22,190,82,Germany,Bayer 04 Leverkusen,82,Right,1,Lean,GK,1.0,,,,,,
+Koke,22,178,74,Spain,Atlético Madrid,82,Right,3,Stocky,RM,6.0,75.0,72.0,85.0,81.0,53.0,73.0
+J. Martínez,27,185,85,Colombia,FC Porto,82,Right,4,Normal,ST,9.0,82.0,81.0,66.0,78.0,43.0,85.0
+G. Rossi,27,173,72,Italy,Fiorentina,82,Left,3,Normal,SUB,49.0,83.0,83.0,74.0,84.0,29.0,52.0
+A. Begović,27,200,83,Bosnia Herzegovina,Stoke City,82,Right,1,Lean,GK,1.0,,,,,,
+J. Vertonghen,27,189,86,Belgium,Tottenham Hotspur,82,Left,3,Normal,SUB,5.0,72.0,67.0,74.0,69.0,82.0,81.0
+Sokratis,26,185,85,Greece,Borussia Dortmund,82,Right,2,Normal,RCB,25.0,78.0,52.0,61.0,65.0,84.0,82.0
+B. Höwedes,26,187,82,Germany,FC Schalke 04,82,Right,2,Normal,SUB,4.0,66.0,50.0,65.0,65.0,83.0,78.0
+Willian,25,175,75,Brazil,Chelsea,82,Right,4,Lean,SUB,22.0,89.0,73.0,78.0,87.0,51.0,63.0
+N. Subotić,25,193,88,Serbia,Borussia Dortmund,82,Right,2,Lean,LCB,4.0,71.0,57.0,58.0,57.0,83.0,79.0
+N. Gaitán,26,173,67,Argentina,SL Benfica,82,Left,4,Normal,LM,10.0,83.0,74.0,81.0,86.0,38.0,57.0
+S. Doumbia,26,178,74,Ivory Coast,PFC CSKA Moscow,82,Right,4,Normal,ST,88.0,93.0,82.0,68.0,82.0,38.0,73.0
+J. Hart,27,196,91,England,Manchester City,82,Right,1,Normal,GK,1.0,,,,,,
+S. Mignolet,26,193,87,Belgium,Liverpool,82,Right,1,Normal,GK,22.0,,,,,,
+David Luiz,27,189,84,Brazil,Paris Saint-Germain,82,Right,3,Normal,RCB,32.0,77.0,64.0,72.0,72.0,80.0,78.0
+Luiz Gustavo,26,187,80,Brazil,VfL Wolfsburg,82,Left,2,Lean,LDM,22.0,72.0,58.0,72.0,72.0,83.0,82.0
+G. Buffon,36,191,83,Italy,Juventus,82,Right,1,Normal,GK,1.0,,,,,,
+S. Gerrard,34,183,83,England,Liverpool,82,Right,3,Normal,LDM,8.0,63.0,83.0,85.0,75.0,70.0,81.0
+T. Howard,35,191,88,United States,Everton,82,Right,1,Stocky,GK,24.0,,,,,,
+Danny,30,178,70,Portugal,Zenit St. Petersburg,82,Right,4,Lean,CAM,35.0,85.0,76.0,81.0,84.0,33.0,56.0
+Júlio César,34,186,79,Brazil,SL Benfica,82,Left,1,Normal,SUB,20.0,,,,,,
+T. Motta,31,187,83,Italy,Paris Saint-Germain,82,Left,3,Normal,CDM,8.0,50.0,66.0,78.0,73.0,79.0,84.0
+R. Adler,29,191,87,Germany,Hamburger SV,82,Right,1,Normal,SUB,15.0,,,,,,
+Alex,32,188,92,Brazil,Milan,82,Right,2,Stocky,RCB,33.0,54.0,64.0,53.0,55.0,84.0,83.0
+Diego,29,173,73,Brazil,Fenerbahçe SK,82,Right,4,Normal,CAM,10.0,75.0,73.0,84.0,85.0,39.0,64.0
+P. Zabaleta,29,178,76,Argentina,Manchester City,82,Right,3,Normal,RB,5.0,74.0,52.0,74.0,75.0,83.0,82.0
+Gabi,30,180,74,Spain,Atlético Madrid,82,Right,2,Normal,RCM,14.0,68.0,72.0,80.0,76.0,75.0,73.0
+M. Gomez,28,189,88,Germany,Fiorentina,82,Right,2,Normal,ST,33.0,75.0,82.0,60.0,70.0,30.0,79.0
+R. Palacio,32,175,70,Argentina,Inter,82,Right,3,Lean,SUB,8.0,85.0,82.0,77.0,84.0,31.0,60.0
+Dante,30,188,87,Brazil,FC Bayern München,82,Left,3,Normal,SUB,4.0,64.0,56.0,72.0,71.0,83.0,76.0
+E. Lavezzi,29,173,75,Argentina,Paris Saint-Germain,82,Right,4,Stocky,LW,22.0,87.0,76.0,75.0,85.0,32.0,73.0
+Borja Valero,29,175,73,Spain,Fiorentina,82,Right,3,Normal,LCM,20.0,71.0,74.0,85.0,81.0,65.0,67.0
+L. Baines,29,170,70,England,Everton,82,Left,3,Normal,LB,3.0,77.0,74.0,81.0,77.0,80.0,74.0
+S. Mandanda,29,185,82,France,Olympique de Marseille,82,Right,1,Normal,GK,30.0,,,,,,
+Filipe Luís,28,182,78,Brazil,Chelsea,82,Left,3,Lean,SUB,3.0,82.0,62.0,76.0,78.0,81.0,77.0
+J. Błaszczykowski,28,175,71,Poland,Borussia Dortmund,82,Right,3,Normal,SUB,16.0,87.0,74.0,79.0,83.0,58.0,72.0
+L. Piszczek,29,184,78,Poland,Borussia Dortmund,82,Right,3,Normal,RB,26.0,81.0,67.0,73.0,74.0,81.0,82.0
+Hernanes,29,180,76,Brazil,Inter,82,Right,4,Normal,RCM,88.0,71.0,81.0,83.0,85.0,63.0,73.0
+F. Muslera,28,190,77,Uruguay,Galatasaray SK,82,Right,1,Lean,GK,1.0,,,,,,
+F. Amorebielsa,28,194,83,Venezuela,Venezuela,82,Left,2,Lean,,,53.0,47.0,56.0,50.0,81.0,85.0
+S. Feghouli,24,177,71,Algeria,Valencia CF,81,Right,3,Lean,SUB,8.0,84.0,73.0,75.0,86.0,41.0,63.0
+R. Varane,21,191,78,France,Real Madrid,81,Right,2,Lean,SUB,2.0,76.0,45.0,60.0,62.0,83.0,76.0
+A. Laporte,20,189,85,France,Athletic Club de Bilbao,81,Left,2,Lean,LCB,4.0,67.0,29.0,56.0,55.0,83.0,80.0
+Coutinho,22,171,71,Brazil,Liverpool,81,Right,4,Lean,CAM,10.0,81.0,68.0,81.0,87.0,33.0,50.0
+Thiago,23,172,70,Spain,FC Bayern München,81,Right,4,Normal,SUB,6.0,72.0,72.0,79.0,87.0,57.0,65.0
+K. De Bruyne,23,181,76,Belgium,VfL Wolfsburg,81,Right,4,Normal,LM,14.0,77.0,80.0,80.0,82.0,41.0,69.0
+T. Walcott,25,176,68,England,Arsenal,81,Right,3,Lean,SUB,14.0,96.0,77.0,75.0,81.0,33.0,64.0
+Jordi Alba,25,170,69,Spain,FC Barcelona,81,Left,3,Normal,LB,18.0,92.0,69.0,75.0,81.0,78.0,76.0
+J. Wilshere,22,172,68,England,Arsenal,81,Left,3,Normal,LCM,10.0,76.0,69.0,81.0,84.0,61.0,77.0
+K. Strootman,24,186,78,Netherlands,Roma,81,Left,2,Normal,SUB,6.0,67.0,72.0,79.0,76.0,75.0,83.0
+H. Mkhitaryan,25,178,72,Armenia,Borussia Dortmund,81,Right,4,Lean,RM,10.0,86.0,75.0,77.0,85.0,54.0,71.0
+Roberto Firmino,22,181,76,Brazil,TSG 1899 Hoffenheim,81,Right,4,Lean,CAM,10.0,77.0,77.0,77.0,85.0,33.0,67.0
+G. dos Santos,25,175,74,Mexico,Villarreal CF,81,Left,4,Normal,SUB,9.0,86.0,81.0,69.0,88.0,29.0,55.0
+N. Şahin,25,180,72,Turkey,Borussia Dortmund,81,Left,3,Lean,SUB,18.0,55.0,69.0,84.0,82.0,67.0,59.0
+Leandro Castán,27,184,80,Brazil,Roma,81,Left,2,Normal,LCB,5.0,71.0,39.0,50.0,57.0,84.0,81.0
+L. Bender,25,184,77,Germany,Bayer 04 Leverkusen,81,Right,2,Lean,RDM,8.0,68.0,65.0,75.0,73.0,81.0,81.0
+S. Jovetić,24,183,79,Montenegro,Manchester City,81,Right,4,Normal,SUB,35.0,78.0,82.0,78.0,83.0,38.0,70.0
+Iturraspe,25,187,75,Spain,Athletic Club de Bilbao,81,Right,2,Lean,RCM,8.0,67.0,66.0,77.0,72.0,77.0,80.0
+W. Bony,25,182,91,Ivory Coast,Swansea City,81,Right,3,Stocky,ST,10.0,73.0,82.0,59.0,74.0,39.0,85.0
+A. Schürrle,23,183,72,Germany,Chelsea,81,Right,4,Lean,RM,14.0,88.0,83.0,75.0,83.0,37.0,67.0
+Gervinho,27,179,68,Ivory Coast,Roma,81,Right,3,Lean,LW,27.0,93.0,69.0,72.0,83.0,40.0,64.0
+S. Bender,25,185,72,Germany,Borussia Dortmund,81,Right,2,Lean,RDM,6.0,66.0,56.0,68.0,66.0,85.0,82.0
+J. Hernández,26,175,71,Mexico,Real Madrid,81,Right,3,Normal,SUB,14.0,86.0,80.0,64.0,76.0,31.0,63.0
+M. Sakho,24,187,83,France,Liverpool,81,Left,2,Normal,LCB,17.0,68.0,33.0,60.0,57.0,80.0,83.0
+Nani,27,175,66,Portugal,Sporting CP,81,Right,5,Lean,LW,77.0,84.0,79.0,79.0,86.0,27.0,64.0
+Ramires,27,180,70,Brazil,Chelsea,81,Right,3,Lean,SUB,7.0,88.0,69.0,77.0,82.0,79.0,73.0
+S. Eto'o,33,179,75,Cameroon,Everton,81,Right,4,Lean,SUB,5.0,76.0,81.0,71.0,82.0,37.0,72.0
+M. Klose,36,184,84,Germany,Lazio,81,Right,2,Lean,SUB,11.0,70.0,77.0,63.0,73.0,32.0,63.0
+José Reina,31,188,92,Spain,FC Bayern München,81,Right,1,Normal,SUB,23.0,,,,,,
+D. Berbatov,33,189,75,Bulgaria,AS Monaco,81,Right,4,Lean,ST,10.0,64.0,82.0,80.0,80.0,32.0,62.0
+D. Drogba,36,188,85,Ivory Coast,Chelsea,81,Right,3,Normal,SUB,11.0,67.0,83.0,75.0,75.0,36.0,78.0
+A. Cole,33,176,66,England,Roma,81,Left,3,Normal,LB,3.0,73.0,55.0,71.0,74.0,80.0,75.0
+R. van der Vaart,31,176,74,Netherlands,Hamburger SV,81,Left,3,Normal,SUB,23.0,53.0,78.0,81.0,81.0,37.0,63.0
+Fernando Torres,30,186,78,Spain,Milan,81,Right,3,Normal,SUB,9.0,78.0,79.0,71.0,80.0,32.0,70.0
+N. de Jong,29,174,72,Netherlands,Milan,81,Right,2,Normal,CDM,34.0,71.0,51.0,72.0,72.0,78.0,82.0
+C. Carrasso,32,187,87,France,FC Girondins de Bordeaux,81,Right,1,Normal,GK,16.0,,,,,,
+Felipe Melo,31,183,80,Brazil,Galatasaray SK,81,Right,3,Normal,SUB,3.0,77.0,71.0,76.0,75.0,80.0,86.0
+Fernandinho,29,176,67,Brazil,Manchester City,81,Right,3,Lean,RDM,25.0,78.0,74.0,80.0,81.0,73.0,76.0
+S. Kießling,30,191,80,Germany,Bayer 04 Leverkusen,81,Right,2,Lean,ST,11.0,66.0,83.0,71.0,69.0,45.0,80.0
+T. Zengin,30,192,90,Turkey,Beşiktaş JK,81,Right,1,Normal,GK,29.0,,,,,,
+Soldado,29,179,72,Spain,Tottenham Hotspur,81,Right,3,Normal,SUB,9.0,76.0,81.0,68.0,76.0,42.0,75.0
+Luisão,33,192,81,Brazil,SL Benfica,81,Right,2,Lean,RCB,4.0,39.0,53.0,59.0,53.0,84.0,75.0
+D. Agger,29,191,79,Denmark,Brøndby IF,81,Left,2,Normal,SUB,22.0,73.0,65.0,66.0,61.0,83.0,77.0
+C. Dempsey,31,185,84,United States,Seattle Sounders FC,81,Right,4,Normal,RS,2.0,73.0,80.0,75.0,82.0,42.0,75.0
+R. Montolivo,29,182,79,Italy,Milan,81,Right,2,Lean,SUB,18.0,60.0,71.0,83.0,76.0,68.0,73.0
+Llorente,29,195,90,Spain,Juventus,81,Right,2,Normal,LS,14.0,61.0,79.0,57.0,74.0,35.0,85.0
+M. Boussoufa,29,167,61,Morocco,Lokomotiv Moscow,81,Right,5,Lean,SUB,11.0,80.0,72.0,82.0,86.0,42.0,55.0
+G. Cahill,28,193,86,England,Chelsea,81,Right,2,Lean,RCB,24.0,74.0,58.0,52.0,62.0,84.0,76.0
+L. Koscielny,28,186,75,France,Arsenal,81,Right,2,Lean,LCB,6.0,81.0,40.0,62.0,65.0,83.0,75.0
+Diego Alves,29,188,83,Brazil,Valencia CF,81,Left,1,Normal,GK,1.0,,,,,,
+M. Škrtel,29,191,81,Slovakia,Liverpool,81,Right,2,Normal,SUB,37.0,63.0,38.0,48.0,54.0,82.0,82.0
+Y. Cabaye,28,175,72,France,Paris Saint-Germain,81,Right,3,Normal,SUB,4.0,68.0,75.0,82.0,78.0,71.0,73.0
+M. Valbuena,29,167,58,France,Dinamo Moscow,81,Right,4,Normal,CAM,14.0,86.0,73.0,80.0,83.0,33.0,50.0
+B. Ivanović,30,185,91,Serbia,Chelsea,81,Right,2,Normal,RB,2.0,67.0,60.0,63.0,60.0,86.0,83.0
+Beto,32,182,81,Portugal,Sevilla FC,81,Right,1,Normal,GK,13.0,,,,,,
+C. Bacca,27,181,77,Colombia,Sevilla FC,81,Right,2,Stocky,ST,9.0,81.0,82.0,63.0,80.0,31.0,69.0
+S. El Shaarawy,21,178,72,Italy,Milan,80,Right,4,Lean,SUB,92.0,87.0,76.0,72.0,84.0,33.0,60.0
+Parejo,25,180,75,Spain,Valencia CF,80,Right,3,Lean,RCM,10.0,61.0,71.0,86.0,78.0,58.0,68.0
+E. Mangala,23,187,84,France,Manchester City,80,Left,2,Normal,SUB,20.0,76.0,40.0,59.0,63.0,79.0,85.0
+R. Lukaku,21,190,94,Belgium,Everton,80,Left,3,Stocky,ST,10.0,84.0,80.0,65.0,75.0,30.0,81.0
+Rodrigo,23,180,70,Spain,Valencia CF,80,Left,4,Lean,RW,17.0,86.0,80.0,69.0,79.0,33.0,71.0
+M. Verratti,21,165,60,Italy,Paris Saint-Germain,80,Right,3,Normal,RCM,24.0,70.0,55.0,80.0,84.0,73.0,67.0
+R. Sterling,19,170,69,England,Liverpool,80,Right,4,Lean,SUB,31.0,93.0,69.0,70.0,84.0,46.0,62.0
+Iñigo Martínez,23,181,77,Spain,Real Sociedad,80,Left,2,Normal,LCB,6.0,76.0,54.0,54.0,59.0,82.0,80.0
+Bernard,21,164,57,Brazil,Shakhtar Donetsk,80,Right,4,Lean,SUB,10.0,90.0,71.0,76.0,85.0,37.0,39.0
+A. Witsel,25,186,73,Belgium,Zenit St. Petersburg,80,Right,4,Normal,RDM,28.0,71.0,73.0,77.0,83.0,74.0,80.0
+E. Banega,26,174,71,Argentina,Sevilla FC,80,Right,4,Normal,SUB,19.0,68.0,70.0,83.0,82.0,65.0,70.0
+C. Benteke,23,190,83,Belgium,Aston Villa,80,Right,3,Normal,SUB,20.0,80.0,81.0,64.0,74.0,33.0,85.0
+Paulinho,25,181,77,Brazil,Tottenham Hotspur,80,Right,3,Normal,SUB,8.0,77.0,75.0,73.0,77.0,80.0,78.0
+Susaeta,26,179,68,Spain,Athletic Club de Bilbao,80,Right,3,Lean,RW,14.0,85.0,74.0,79.0,80.0,32.0,68.0
+Muniaín,21,169,63,Spain,Athletic Club de Bilbao,80,Right,4,Normal,LW,19.0,87.0,73.0,71.0,85.0,37.0,63.0
+C. Immobile,24,181,85,Italy,Borussia Dortmund,80,Right,3,Normal,ST,9.0,78.0,80.0,60.0,76.0,32.0,78.0
+X. Shaqiri,22,169,72,Switzerland,FC Bayern München,80,Left,4,Stocky,SUB,11.0,88.0,78.0,76.0,86.0,57.0,74.0
+J. Draxler,20,187,75,Germany,FC Schalke 04,80,Right,4,Lean,CAM,10.0,78.0,78.0,78.0,84.0,34.0,61.0
+M. Schneiderlin,24,181,75,France,Southampton,80,Right,2,Normal,CDM,4.0,68.0,63.0,71.0,72.0,78.0,81.0
+Rui Patrício,26,190,85,Portugal,Sporting CP,80,Left,1,Normal,GK,1.0,,,,,,
+K. Trapp,23,189,83,Germany,Eintracht Frankfurt,80,Right,1,Normal,GK,1.0,,,,,,
+Douglas Costa,23,170,73,Brazil,Shakhtar Donetsk,80,Left,5,Lean,RAM,20.0,85.0,73.0,78.0,85.0,51.0,62.0
+N. Otamendi,26,183,75,Argentina,Valencia CF,80,Right,2,Normal,LCB,23.0,66.0,51.0,55.0,62.0,84.0,76.0
+H. Badstuber,25,190,84,Germany,FC Bayern München,80,Left,2,Normal,SUB,28.0,59.0,50.0,71.0,54.0,80.0,74.0
+M. Gonalons,25,187,76,France,Olympique Lyonnais,80,Right,2,Lean,CDM,21.0,67.0,59.0,72.0,72.0,80.0,83.0
+R. Rodriguez,21,180,77,Switzerland,VfL Wolfsburg,80,Left,3,Normal,LB,34.0,76.0,52.0,76.0,76.0,79.0,76.0
+C. Emenike,27,182,90,Nigeria,Fenerbahçe SK,80,Right,3,Stocky,RM,29.0,88.0,80.0,56.0,76.0,28.0,83.0
+Kiko Casilla,27,191,84,Spain,RCD Espanyol,80,Right,1,Normal,GK,13.0,,,,,,
+S. Sam,26,174,68,Germany,FC Schalke 04,80,Left,4,Lean,RM,18.0,90.0,79.0,74.0,81.0,34.0,63.0
+José Callejón,27,178,73,Spain,Napoli,80,Right,3,Lean,RAM,7.0,90.0,78.0,72.0,82.0,29.0,62.0
+W. Szczęsny,24,196,84,Poland,Arsenal,80,Right,1,Lean,GK,1.0,,,,,,
+A. Dzyuba,25,194,91,Russia,Spartak Moscow,80,Right,3,Normal,ST,22.0,78.0,80.0,71.0,71.0,33.0,84.0
+S. Rondón,24,189,85,Venezuela,Zenit St. Petersburg,80,Right,4,Stocky,ST,23.0,80.0,80.0,56.0,74.0,32.0,80.0
+M. Dembélé,26,185,82,Belgium,Tottenham Hotspur,80,Left,4,Normal,LDM,19.0,79.0,71.0,75.0,84.0,69.0,83.0
+G. Castro,27,172,73,Germany,Bayer 04 Leverkusen,80,Right,3,Normal,LDM,27.0,77.0,69.0,79.0,81.0,74.0,68.0
+K. Boateng,27,186,86,Ghana,FC Schalke 04,80,Right,4,Normal,RDM,9.0,77.0,80.0,78.0,81.0,70.0,84.0
+Beñat,27,175,72,Spain,Athletic Club de Bilbao,80,Right,2,Normal,CM,7.0,67.0,79.0,83.0,75.0,68.0,74.0
+A. Cerci,26,178,73,Italy,Atlético Madrid,80,Left,4,Normal,SUB,22.0,87.0,78.0,81.0,83.0,34.0,74.0
+L. Rémy,27,184,76,France,Chelsea,80,Right,4,Lean,SUB,18.0,90.0,80.0,68.0,74.0,34.0,71.0
+D. Lovren,24,188,84,Croatia,Liverpool,80,Right,2,Normal,RCB,6.0,63.0,39.0,59.0,63.0,81.0,82.0
+D. Tadić,25,181,76,Serbia,Southampton,80,Left,4,Normal,LM,11.0,74.0,69.0,80.0,82.0,36.0,67.0
+K. Mirallas,26,178,70,Belgium,Everton,80,Right,4,Normal,LM,11.0,88.0,77.0,77.0,83.0,47.0,63.0
+S. Kjær,25,190,82,Denmark,LOSC Lille,80,Right,2,Normal,RCB,14.0,66.0,44.0,62.0,53.0,82.0,78.0
+O. Kivrak,26,187,74,Turkey,Trabzonspor,80,Right,1,Normal,GK,1.0,,,,,,
+F. Totti,37,180,82,Italy,Roma,80,Right,3,Normal,CF,10.0,40.0,84.0,87.0,81.0,26.0,68.0
+Tiago,33,183,71,Portugal,Atlético Madrid,80,Right,4,Lean,LCM,5.0,63.0,67.0,78.0,73.0,69.0,77.0
+G. Barry,33,183,79,England,Everton,80,Left,2,Normal,LDM,18.0,48.0,68.0,81.0,69.0,80.0,78.0
+A. Cassano,31,175,73,Italy,Parma,80,Right,3,Stocky,CF,99.0,54.0,78.0,87.0,85.0,28.0,60.0
+T. Rosický,33,178,65,Czech Republic,Arsenal,80,Right,3,Lean,SUB,7.0,74.0,70.0,81.0,84.0,43.0,67.0
+Quaresma,30,175,74,Portugal,FC Porto,80,Right,5,Normal,SUB,7.0,84.0,74.0,77.0,85.0,27.0,64.0
+Ronaldinho,34,182,80,Brazil,Querétaro,80,Right,5,Normal,CAM,49.0,53.0,72.0,85.0,85.0,29.0,61.0
+Mikel Arteta,32,175,64,Spain,Arsenal,80,Right,3,Normal,SUB,8.0,43.0,72.0,83.0,79.0,74.0,66.0
+J. Defoe,31,170,70,England,Toronto FC,80,Right,3,Lean,SUB,18.0,84.0,85.0,61.0,78.0,29.0,66.0
+P. Evra,33,173,76,France,Juventus,80,Left,3,Normal,LM,33.0,79.0,51.0,71.0,77.0,79.0,78.0
+E. Adebayor,30,191,82,Togo,Tottenham Hotspur,80,Right,4,Lean,ST,10.0,73.0,79.0,67.0,77.0,31.0,77.0
+Iraola,32,182,74,Spain,Athletic Club de Bilbao,80,Right,3,Lean,RB,15.0,78.0,63.0,75.0,77.0,79.0,79.0
+Aduriz,33,182,78,Spain,Athletic Club de Bilbao,80,Right,3,Normal,ST,20.0,67.0,81.0,64.0,71.0,46.0,78.0
+J. Mathieu,30,192,82,France,FC Barcelona,80,Left,2,Normal,LCB,24.0,76.0,64.0,66.0,55.0,82.0,81.0
+David Villa,32,175,69,Spain,Melbourne City FC,80,Right,4,Normal,LW,9.0,73.0,83.0,72.0,82.0,32.0,64.0
+D. Benaglio,30,194,89,Switzerland,VfL Wolfsburg,80,Right,1,Normal,GK,1.0,,,,,,
+Bruno Alves,32,187,83,Portugal,Fenerbahçe SK,80,Right,2,Lean,LCB,22.0,64.0,60.0,60.0,64.0,80.0,84.0
+V. Enyeama,31,182,87,Nigeria,LOSC Lille,80,Right,1,Normal,GK,1.0,,,,,,
+G. Ochoa,28,185,78,Mexico,Málaga CF,80,Right,1,Lean,SUB,13.0,,,,,,
+Raffael,29,174,69,Brazil,Borussia Mönchengladbach,80,Right,4,Lean,LS,11.0,74.0,79.0,78.0,85.0,41.0,68.0
+I. Denisov,30,176,70,Russia,Dinamo Moscow,80,Right,3,Normal,RDM,27.0,76.0,67.0,75.0,76.0,80.0,75.0
+R. Mavuba,30,172,74,France,LOSC Lille,80,Right,2,Lean,CDM,24.0,66.0,52.0,75.0,73.0,78.0,77.0
+G. Clichy,28,176,65,France,Manchester City,80,Left,2,Lean,LB,22.0,85.0,42.0,70.0,78.0,80.0,68.0
+Raúl Albiol,28,190,82,Spain,Napoli,80,Right,2,Lean,RCB,33.0,61.0,46.0,60.0,59.0,83.0,76.0
+A. Song,26,185,74,Cameroon,West Ham United,80,Right,3,Normal,SUB,30.0,71.0,59.0,70.0,70.0,78.0,83.0
+M. Debuchy,28,178,76,France,Arsenal,80,Right,3,Normal,SUB,2.0,76.0,65.0,73.0,74.0,78.0,78.0
+L. Perrin,28,180,76,France,AS Saint-Étienne,80,Right,2,Normal,SUB,24.0,71.0,64.0,69.0,67.0,83.0,76.0
+B. Sagna,31,176,72,France,Manchester City,80,Right,3,Normal,SUB,3.0,74.0,56.0,71.0,75.0,81.0,78.0
+A. Valencia,28,181,78,Ecuador,Manchester United,80,Right,4,Normal,SUB,25.0,85.0,67.0,77.0,79.0,47.0,75.0
+Naldo,31,198,89,Brazil,VfL Wolfsburg,80,Right,2,Lean,RCB,25.0,73.0,56.0,61.0,57.0,82.0,74.0
+D. Ba,29,189,85,Senegal,Beşiktaş JK,80,Right,3,Normal,SUB,9.0,77.0,81.0,67.0,77.0,45.0,79.0
+Miguel Veloso,28,180,78,Portugal,Portugal,80,Left,2,Normal,,,68.0,72.0,82.0,78.0,75.0,74.0
+F. Fazio,27,195,91,Argentina,Tottenham Hotspur,80,Right,2,Normal,SUB,21.0,44.0,42.0,60.0,54.0,81.0,82.0
+A. Chedjou,29,184,86,Cameroon,Galatasaray SK,80,Right,2,Normal,RCB,21.0,70.0,60.0,65.0,63.0,79.0,81.0
+A. Costa,29,176,75,Argentina,Spartak Moscow,80,Left,3,Normal,SUB,5.0,64.0,76.0,83.0,79.0,68.0,75.0
+M. Baša,31,189,86,Montenegro,LOSC Lille,80,Right,2,Normal,LCB,25.0,62.0,55.0,59.0,56.0,81.0,78.0
+E. Pérez,28,177,77,Argentina,SL Benfica,80,Right,3,Normal,CM,35.0,80.0,73.0,78.0,82.0,75.0,80.0
+O. Cardosa,30,188,84,Paraguay,Paraguay,80,Left,2,Normal,,,42.0,87.0,72.0,69.0,36.0,71.0
+M. Musacchio,23,182,80,Argentina,Villarreal CF,79,Right,2,Lean,RCB,5.0,69.0,51.0,65.0,57.0,81.0,77.0
+N. Nkoulou,24,180,77,Cameroon,Olympique de Marseille,79,Right,2,Normal,LCB,3.0,79.0,43.0,66.0,69.0,80.0,75.0
+J. Pastore,25,187,78,Argentina,Paris Saint-Germain,79,Right,4,Lean,SUB,27.0,66.0,77.0,81.0,83.0,46.0,65.0
+R. Cabella,24,172,66,France,Newcastle United,79,Right,4,Lean,RM,20.0,84.0,76.0,77.0,84.0,65.0,57.0
+L. Insigne,23,163,59,Italy,Napoli,79,Right,3,Normal,LAM,24.0,89.0,70.0,76.0,86.0,27.0,47.0
+Paco Alcácer,20,174,74,Spain,Valencia CF,79,Right,3,Normal,ST,9.0,78.0,79.0,63.0,78.0,29.0,72.0
+S. Kaya,23,182,66,Turkey,Galatasaray SK,79,Right,2,Lean,LCB,26.0,74.0,38.0,60.0,61.0,81.0,79.0
+T. Krul,26,193,83,Netherlands,Newcastle United,79,Left,1,Lean,GK,1.0,,,,,,
+Y. Sommer,25,183,79,Switzerland,Borussia Mönchengladbach,79,Right,1,Normal,GK,1.0,,,,,,
+R. Zieler,25,188,83,Germany,Hannover 96,79,Right,1,Lean,GK,1.0,,,,,,
+A. Dzagoev,24,179,70,Russia,PFC CSKA Moscow,79,Right,4,Normal,SUB,10.0,75.0,74.0,79.0,79.0,39.0,62.0
+G. Bonaventura,24,180,75,Italy,Milan,79,Right,3,Lean,LW,28.0,80.0,75.0,77.0,80.0,60.0,73.0
+Guaita,27,190,81,Spain,Getafe CF,79,Right,1,Normal,GK,25.0,,,,,,
+Illarramendi,24,179,76,Spain,Real Madrid,79,Right,3,Normal,SUB,24.0,67.0,61.0,80.0,77.0,72.0,70.0
+E. Salvio,23,171,70,Argentina,SL Benfica,79,Right,4,Normal,RM,18.0,88.0,74.0,73.0,84.0,43.0,66.0
+Alex Sandro,23,180,78,Brazil,FC Porto,79,Left,3,Normal,SUB,26.0,84.0,64.0,74.0,81.0,77.0,77.0
+Ander Herrera,24,182,73,Spain,Manchester United,79,Right,4,Lean,RCM,21.0,76.0,63.0,79.0,84.0,54.0,65.0
+A. Lacazette,23,175,73,France,Olympique Lyonnais,79,Right,4,Normal,LS,10.0,87.0,77.0,69.0,83.0,39.0,72.0
+P. Jones,22,183,71,England,Manchester United,79,Right,2,Normal,SUB,4.0,66.0,55.0,65.0,61.0,80.0,80.0
+K. Volland,21,179,82,Germany,TSG 1899 Hoffenheim,79,Left,3,Normal,RM,31.0,81.0,80.0,76.0,79.0,42.0,80.0
+Mario Suárez,27,188,80,Spain,Atlético Madrid,79,Right,3,Normal,SUB,4.0,63.0,68.0,77.0,72.0,78.0,81.0
+K. Gameiro,27,178,72,France,Sevilla FC,79,Right,3,Normal,SUB,7.0,80.0,79.0,74.0,76.0,34.0,65.0
+A. Taarabt,25,177,69,Morocco,Queens Park Rangers,79,Right,5,Normal,SUB,27.0,80.0,73.0,76.0,84.0,31.0,62.0
+S. Coleman,25,177,77,Republic of Ireland,Everton,79,Right,3,Normal,RB,23.0,81.0,67.0,71.0,77.0,79.0,78.0
+A. Lallana,26,173,72,England,Liverpool,79,Right,4,Lean,LM,20.0,72.0,71.0,78.0,83.0,49.0,67.0
+V. Stocker,25,179,72,Switzerland,Hertha BSC,79,Left,3,Normal,SUB,14.0,83.0,76.0,76.0,81.0,62.0,73.0
+Fernando,26,185,76,Brazil,Manchester City,79,Right,2,Normal,SUB,6.0,68.0,60.0,69.0,73.0,83.0,83.0
+J. Biabiany,26,177,70,France,Parma,79,Right,3,Normal,SUB,7.0,96.0,66.0,70.0,82.0,36.0,66.0
+L. Bonucci,27,190,82,Italy,Juventus,79,Right,2,Lean,CB,19.0,69.0,46.0,66.0,65.0,78.0,79.0
+K. Asamoah,25,178,78,Ghana,Juventus,79,Left,4,Stocky,SUB,22.0,84.0,74.0,75.0,82.0,69.0,82.0
+J. McCarthy,23,180,72,Republic of Ireland,Everton,79,Right,3,Normal,RDM,16.0,73.0,67.0,76.0,76.0,78.0,80.0
+D. Blind,24,180,72,Netherlands,Manchester United,79,Left,3,Normal,CDM,17.0,66.0,51.0,73.0,75.0,74.0,77.0
+Víctor Ruíz,25,184,80,Spain,Villarreal CF,79,Left,2,Normal,LCB,15.0,67.0,41.0,64.0,59.0,80.0,79.0
+G. Krychowiak,24,186,85,Poland,Sevilla FC,79,Right,2,Normal,LDM,4.0,59.0,57.0,70.0,60.0,80.0,86.0
+A. Abdennour,24,187,84,Tunisia,AS Monaco,79,Left,2,Stocky,LCB,5.0,72.0,57.0,63.0,63.0,79.0,84.0
+Ibai Gómez,24,177,72,Spain,Athletic Club de Bilbao,79,Right,3,Normal,SUB,11.0,81.0,81.0,72.0,83.0,49.0,68.0
+Deulofeu,20,179,73,Spain,Sevilla FC,79,Right,4,Normal,SUB,18.0,91.0,68.0,66.0,86.0,26.0,59.0
+Carvajal,22,173,73,Spain,Real Madrid,79,Right,2,Stocky,RB,15.0,82.0,40.0,73.0,78.0,76.0,82.0
+R. Elm,26,184,75,Sweden,PFC CSKA Moscow,79,Right,3,Lean,SUB,20.0,65.0,71.0,82.0,70.0,72.0,75.0
+J. Evans,26,189,80,Northern Ireland,Manchester United,79,Right,2,Lean,RCB,6.0,74.0,31.0,58.0,51.0,81.0,74.0
+Fábio Coentrão,26,179,70,Portugal,Real Madrid,79,Left,3,Lean,SUB,5.0,80.0,65.0,73.0,79.0,75.0,76.0
+Sergio Asenjo,25,182,84,Spain,Villarreal CF,79,Right,1,Normal,GK,1.0,,,,,,
+Azpilicueta,24,178,75,Spain,Chelsea,79,Right,3,Normal,LB,28.0,79.0,56.0,74.0,73.0,80.0,76.0
+O. Toprak,24,186,83,Turkey,Bayer 04 Leverkusen,79,Right,2,Normal,RCB,21.0,77.0,38.0,61.0,66.0,81.0,73.0
+S. Ulreich,25,192,84,Germany,VfB Stuttgart,79,Right,1,Lean,GK,1.0,,,,,,
+Alex Teixeira,24,173,70,Brazil,Shakhtar Donetsk,79,Right,3,Normal,CAM,29.0,78.0,73.0,75.0,84.0,70.0,57.0
+P. Aubameyang,25,187,77,Gabon,Borussia Dortmund,79,Right,3,Lean,SUB,17.0,95.0,79.0,74.0,78.0,38.0,68.0
+K. Navas,27,185,78,Costa Rica,Real Madrid,79,Right,1,Normal,SUB,13.0,,,,,,
+J. Cillessen,25,188,82,Netherlands,Ajax,79,Right,1,Normal,GK,22.0,,,,,,
+M. Rojo,24,186,82,Argentina,Manchester United,79,Left,2,Normal,LB,5.0,75.0,59.0,66.0,66.0,79.0,82.0
+R. Eremenko,27,180,67,Finland,PFC CSKA Moscow,79,Right,3,Normal,CAM,25.0,77.0,73.0,80.0,80.0,55.0,71.0
+R. Nainggolan,26,176,65,Belgium,Roma,79,Right,3,Normal,LCM,4.0,80.0,71.0,76.0,80.0,76.0,80.0
+B. Dzsudzsák,27,179,72,Hungary,Dinamo Moscow,79,Left,4,Lean,SUB,7.0,81.0,79.0,77.0,77.0,26.0,65.0
+K. Glik,26,190,80,Poland,Torino,79,Right,2,Normal,CB,25.0,52.0,29.0,44.0,43.0,81.0,78.0
+Sandro,25,187,75,Brazil,Queens Park Rangers,79,Right,3,Lean,CDM,30.0,72.0,68.0,72.0,72.0,80.0,84.0
+Javi García,27,185,80,Spain,Zenit St. Petersburg,79,Right,2,Normal,LDM,21.0,63.0,66.0,74.0,67.0,81.0,86.0
+M. Fellaini,26,194,85,Belgium,Manchester United,79,Right,3,Lean,SUB,31.0,64.0,71.0,73.0,71.0,75.0,88.0
+M. Cáceres,27,182,77,Uruguay,Juventus,79,Right,2,Lean,RCB,4.0,82.0,52.0,60.0,66.0,82.0,77.0
+Iborra,26,195,88,Spain,Sevilla FC,79,Right,2,Normal,RDM,12.0,55.0,67.0,73.0,66.0,78.0,83.0
+R. Keane,33,175,73,Republic of Ireland,LA Galaxy,79,Right,3,Normal,RS,7.0,68.0,81.0,73.0,82.0,31.0,68.0
+M. De Sanctis,37,190,82,Italy,Roma,79,Right,1,Normal,GK,26.0,,,,,,
+F. Lampard,36,184,89,England,Manchester City,79,Right,3,Normal,SUB,18.0,41.0,84.0,82.0,76.0,62.0,71.0
+R. Ferdinand,35,196,86,England,Queens Park Rangers,79,Right,2,Normal,LCB,5.0,59.0,42.0,61.0,60.0,81.0,67.0
+L. Donovan,32,173,73,United States,LA Galaxy,79,Right,3,Normal,SUB,10.0,82.0,73.0,78.0,77.0,43.0,66.0
+M. Carrick,32,188,74,England,Manchester United,79,Right,2,Normal,SUB,16.0,60.0,69.0,79.0,72.0,75.0,68.0
+C. Pizarro,35,184,84,Peru,FC Bayern München,79,Right,3,Normal,SUB,14.0,55.0,79.0,69.0,78.0,32.0,71.0
+F. Coloccini,32,184,83,Argentina,Newcastle United,79,Right,2,Normal,LCB,2.0,69.0,52.0,64.0,64.0,79.0,77.0
+S. Pienaar,32,170,66,South Africa,Everton,79,Right,4,Normal,SUB,22.0,73.0,72.0,80.0,84.0,52.0,67.0
+P. Jagielka,31,183,83,England,Everton,79,Right,2,Normal,LCB,6.0,68.0,46.0,58.0,55.0,81.0,81.0
+A. Aquilani,29,186,77,Italy,Fiorentina,79,Right,2,Lean,RCM,10.0,56.0,74.0,82.0,78.0,65.0,69.0
+M. Dawson,30,188,76,England,Hull City,79,Right,2,Normal,RCB,21.0,32.0,31.0,46.0,42.0,81.0,79.0
+M. Demichelis,33,184,78,Argentina,Manchester City,79,Right,2,Normal,LCB,26.0,33.0,41.0,58.0,54.0,80.0,72.0
+Maicon,32,184,77,Brazil,Roma,79,Right,2,Normal,RB,13.0,78.0,71.0,79.0,78.0,76.0,80.0
+M. Vorm,30,182,87,Netherlands,Tottenham Hotspur,79,Right,1,Normal,SUB,13.0,,,,,,
+J. Lescott,31,188,89,England,West Bromwich Albion,79,Left,2,Normal,SUB,6.0,54.0,50.0,57.0,58.0,81.0,79.0
+W. Caballero,32,186,80,Argentina,Manchester City,79,Right,1,Normal,SUB,13.0,,,,,,
+Helton,36,189,80,Brazil,FC Porto,79,Right,1,Lean,SUB,1.0,,,,,,
+F. Marchetti,31,188,82,Italy,Lazio,79,Left,1,Normal,SUB,22.0,,,,,,
+D. Srna,32,178,72,Croatia,Shakhtar Donetsk,79,Right,3,Normal,RB,33.0,72.0,72.0,84.0,74.0,76.0,76.0
+G. Rodríguez,30,182,79,Argentina,Fiorentina,79,Right,2,Normal,RCB,2.0,67.0,50.0,64.0,64.0,81.0,76.0
+V. Demirel,32,191,90,Turkey,Fenerbahçe SK,79,Right,1,Stocky,SUB,1.0,,,,,,
+Xabi Prieto,30,186,76,Spain,Real Sociedad,79,Right,3,Normal,RW,10.0,63.0,75.0,82.0,78.0,35.0,61.0
+Arbeloa,31,184,79,Spain,Real Madrid,79,Right,2,Lean,SUB,17.0,73.0,60.0,71.0,61.0,79.0,78.0
+Juanfran,29,180,72,Spain,Atlético Madrid,79,Right,3,Lean,RB,20.0,83.0,59.0,73.0,79.0,76.0,78.0
+I. Olić,34,182,85,Croatia,VfL Wolfsburg,79,Left,3,Normal,ST,11.0,80.0,79.0,67.0,76.0,36.0,82.0
+Raúl Meireles,31,180,78,Portugal,Fenerbahçe SK,79,Right,3,Lean,SUB,14.0,71.0,76.0,80.0,77.0,68.0,77.0
+A. Lennon,27,165,63,England,Tottenham Hotspur,79,Right,3,Normal,SUB,7.0,92.0,63.0,73.0,83.0,27.0,60.0
+T. Vermaelen,28,182,75,Belgium,FC Barcelona,79,Left,2,Normal,SUB,23.0,71.0,63.0,69.0,63.0,80.0,77.0
+Manuel Fernandes,28,175,69,Portugal,Lokomotiv Moscow,79,Right,3,Lean,CAM,4.0,82.0,74.0,81.0,82.0,70.0,73.0
+G. Inler,30,183,80,Switzerland,Napoli,79,Right,2,Normal,LDM,88.0,67.0,72.0,77.0,73.0,75.0,77.0
+V. Behrami,29,185,78,Switzerland,Hamburger SV,79,Right,2,Normal,RDM,21.0,75.0,65.0,75.0,76.0,78.0,82.0
+V. Ibišević,29,188,82,Bosnia Herzegovina,VfB Stuttgart,79,Right,3,Normal,ST,9.0,66.0,80.0,61.0,72.0,31.0,69.0
+Y. Kaboul,28,191,87,France,Tottenham Hotspur,79,Right,2,Normal,RCB,4.0,74.0,43.0,57.0,57.0,79.0,82.0
+L. Diarra,29,173,73,France,Lokomotiv Moscow,79,Right,2,Normal,SUB,85.0,78.0,53.0,72.0,75.0,80.0,68.0
+A. Williams,29,181,91,Wales,Swansea City,79,Right,2,Stocky,LCB,6.0,70.0,42.0,57.0,61.0,79.0,82.0
+R. Shirokov,32,187,83,Russia,Spartak Moscow,79,Right,2,Lean,SUB,9.0,68.0,78.0,80.0,74.0,70.0,71.0
+R. Vlaar,29,189,79,Netherlands,Aston Villa,79,Right,2,Stocky,SUB,4.0,61.0,59.0,60.0,59.0,81.0,82.0
+F. Guarín,28,183,77,Colombia,Inter,79,Right,4,Normal,SUB,13.0,79.0,78.0,78.0,81.0,68.0,85.0
+C. Rodríguez,28,178,81,Uruguay,Atlético Madrid,79,Left,3,Stocky,SUB,21.0,79.0,76.0,78.0,78.0,51.0,80.0
+Raúl García,27,184,81,Spain,Atlético Madrid,79,Right,2,Normal,SUB,8.0,72.0,74.0,80.0,77.0,65.0,80.0
+Mikel Gonzalez,28,190,79,Spain,Real Sociedad,79,Right,2,Normal,RCB,3.0,69.0,44.0,59.0,50.0,80.0,82.0
+Lucas Leiva,27,179,73,Brazil,Liverpool,79,Right,2,Normal,SUB,21.0,60.0,40.0,71.0,72.0,79.0,76.0
+A. Ramos,28,186,81,Colombia,Borussia Dortmund,79,Right,3,Lean,SUB,20.0,86.0,76.0,68.0,77.0,37.0,73.0
+Jonas,30,181,73,Brazil,SL Benfica,79,Right,3,Lean,SUB,17.0,77.0,80.0,71.0,81.0,32.0,64.0
+O. Giroud,27,192,88,France,Arsenal,79,Left,2,Normal,SUB,12.0,62.0,78.0,69.0,69.0,38.0,82.0
+O. Cardozo,31,193,87,Paraguay,Trabzonspor,79,Left,2,Normal,SUB,7.0,42.0,85.0,69.0,69.0,30.0,71.0
+D. N'Doye,29,186,81,Senegal,Lokomotiv Moscow,79,Right,3,Normal,ST,33.0,75.0,80.0,62.0,73.0,37.0,84.0
+V. Ćorluka,28,192,84,Croatia,Lokomotiv Moscow,79,Right,3,Normal,RCB,14.0,52.0,46.0,66.0,65.0,81.0,81.0
+Bruno,30,184,74,Spain,Villarreal CF,79,Left,3,Normal,LCM,21.0,60.0,65.0,75.0,73.0,75.0,76.0
+K. Honda,28,182,76,Japan,Milan,79,Left,3,Normal,RW,10.0,74.0,73.0,82.0,79.0,62.0,68.0
+João Pereira,30,172,64,Portugal,Valencia CF,79,Right,3,Normal,SUB,12.0,85.0,58.0,72.0,75.0,75.0,77.0
+M. Depay,20,176,78,Netherlands,PSV,78,Right,5,Normal,LW,7.0,91.0,71.0,72.0,84.0,28.0,75.0
+L. Marković,20,175,65,Serbia,Liverpool,78,Right,4,Lean,RM,50.0,90.0,66.0,72.0,85.0,36.0,52.0
+A. Oxlade-Chamberlain,20,175,70,England,Arsenal,78,Right,4,Normal,SUB,15.0,89.0,71.0,71.0,84.0,41.0,72.0
+R. Barkley,20,189,76,England,Everton,78,Right,3,Normal,SUB,20.0,80.0,71.0,74.0,81.0,55.0,74.0
+Marquinhos,20,183,75,Brazil,Paris Saint-Germain,78,Right,2,Lean,SUB,5.0,79.0,36.0,57.0,63.0,80.0,74.0
+J. Quintero,21,169,64,Colombia,FC Porto,78,Left,4,Stocky,LW,10.0,75.0,70.0,75.0,84.0,29.0,44.0
+William Carvalho,22,187,87,Portugal,Sporting CP,78,Right,3,Normal,CDM,14.0,59.0,60.0,70.0,71.0,80.0,84.0
+E. Lamela,22,183,70,Argentina,Tottenham Hotspur,78,Left,4,Lean,RM,11.0,81.0,80.0,77.0,83.0,28.0,60.0
+K. Papadopoulos,22,183,85,Greece,Bayer 04 Leverkusen,78,Right,2,Stocky,SUB,14.0,67.0,44.0,53.0,51.0,77.0,84.0
+L. Traoré,24,203,87,Ivory Coast,AS Monaco,78,Left,3,Lean,SUB,19.0,77.0,79.0,51.0,67.0,36.0,77.0
+Juan Jesus,23,185,83,Brazil,Inter,78,Left,2,Normal,LCB,5.0,78.0,38.0,53.0,58.0,80.0,81.0
+Alberto Moreno,21,171,67,Spain,Liverpool,78,Left,2,Normal,LB,18.0,87.0,67.0,70.0,80.0,74.0,71.0
+H. Moreno,26,184,80,Mexico,RCD Espanyol,78,Left,2,Normal,SUB,15.0,68.0,42.0,60.0,57.0,79.0,79.0
+E. Capoue,25,189,80,France,Tottenham Hotspur,78,Right,2,Lean,RDM,29.0,61.0,61.0,72.0,70.0,78.0,81.0
+G. Wijnaldum,23,175,74,Netherlands,PSV,78,Right,4,Normal,RCM,10.0,83.0,73.0,70.0,84.0,63.0,72.0
+J. Henderson,24,182,67,England,Liverpool,78,Right,3,Normal,RDM,14.0,75.0,68.0,76.0,75.0,70.0,76.0
+P. Piatti,25,163,63,Argentina,Valencia CF,78,Left,4,Normal,LW,11.0,87.0,70.0,73.0,81.0,32.0,53.0
+Adrien Silva,25,175,72,Portugal,Sporting CP,78,Right,3,Normal,LCM,23.0,61.0,74.0,80.0,77.0,69.0,70.0
+Mikel San José,25,186,77,Spain,Athletic Club de Bilbao,78,Right,2,Lean,SUB,6.0,60.0,50.0,63.0,60.0,79.0,75.0
+A. Poli,24,182,77,Italy,Milan,78,Right,3,Normal,RCM,16.0,76.0,66.0,78.0,78.0,69.0,75.0
+D. Welbeck,23,185,73,England,Arsenal,78,Right,3,Lean,ST,23.0,85.0,76.0,71.0,80.0,33.0,75.0
+G. Töre,22,176,70,Turkey,Beşiktaş JK,78,Left,4,Normal,RM,7.0,85.0,69.0,75.0,81.0,34.0,78.0
+Cristian Tello,22,178,65,Spain,FC Porto,78,Right,3,Lean,SUB,11.0,89.0,72.0,70.0,82.0,26.0,60.0
+M. Etxeberría,27,183,77,Paraguay,Paraguay,78,Left,4,Lean,,,88.0,67.0,75.0,80.0,65.0,70.0
+Y. Lodygin,24,187,82,Russia,Zenit St. Petersburg,78,Right,1,Normal,GK,1.0,,,,,,
+M. Bradley,26,188,79,United States,Toronto FC,78,Right,2,Normal,RCM,4.0,69.0,67.0,75.0,76.0,71.0,82.0
+J. Ménez,27,182,73,France,Milan,78,Right,4,Lean,CF,7.0,85.0,69.0,70.0,83.0,34.0,60.0
+A. Consigli,27,189,79,Italy,Sassuolo,78,Right,1,Lean,GK,47.0,,,,,,
+Y. Movsisyan,26,181,81,Armenia,Spartak Moscow,78,Right,3,Normal,SUB,10.0,81.0,80.0,45.0,74.0,34.0,72.0
+A. Ayew,24,176,72,Ghana,Olympique de Marseille,78,Left,3,Normal,LM,10.0,81.0,72.0,74.0,80.0,62.0,78.0
+P. Ebert,27,175,72,Germany,Spartak Moscow,78,Right,3,Normal,SUB,20.0,79.0,74.0,78.0,80.0,45.0,61.0
+I. Perišić,25,187,81,Croatia,VfL Wolfsburg,78,Right,4,Lean,SUB,9.0,80.0,80.0,76.0,77.0,42.0,74.0
+T. Alderweireld,25,187,80,Belgium,Southampton,78,Right,2,Normal,LCB,17.0,64.0,58.0,64.0,62.0,79.0,79.0
+K. Gibbs,24,178,70,England,Arsenal,78,Left,3,Lean,SUB,3.0,81.0,56.0,72.0,75.0,79.0,71.0
+Taison,26,172,64,Brazil,Shakhtar Donetsk,78,Right,4,Normal,LAM,28.0,88.0,75.0,72.0,82.0,41.0,61.0
+De Marcos,25,180,76,Spain,Athletic Club de Bilbao,78,Right,3,Lean,SUB,10.0,90.0,66.0,75.0,75.0,72.0,82.0
+A. Kokorin,23,183,77,Russia,Dinamo Moscow,78,Right,3,Normal,ST,9.0,85.0,77.0,72.0,75.0,44.0,64.0
+S. de Vrij,22,188,78,Netherlands,Lazio,78,Right,2,Normal,RCB,3.0,66.0,47.0,62.0,67.0,79.0,75.0
+P. Lasogga,22,189,88,Germany,Hamburger SV,78,Right,2,Stocky,ST,10.0,64.0,80.0,54.0,69.0,37.0,83.0
+Rafinha,21,177,70,Brazil,FC Barcelona,78,Left,4,Normal,SUB,12.0,77.0,70.0,75.0,82.0,56.0,67.0
+S. Savić,23,186,73,Montenegro,Fiorentina,78,Right,2,Lean,LCB,15.0,67.0,39.0,54.0,59.0,81.0,74.0
+P. Franco,23,183,73,Colombia,Beşiktaş JK,78,Right,2,Normal,RCB,19.0,77.0,47.0,56.0,65.0,79.0,78.0
+D. Astori,27,188,80,Italy,Roma,78,Left,2,Lean,SUB,23.0,68.0,40.0,47.0,50.0,81.0,79.0
+D. Criscito,27,183,75,Italy,Zenit St. Petersburg,78,Left,2,Normal,LB,4.0,82.0,62.0,72.0,74.0,77.0,77.0
+Adrián,26,183,73,Spain,FC Porto,78,Right,3,Normal,SUB,18.0,81.0,75.0,65.0,83.0,29.0,70.0
+D. Payet,27,175,77,France,Olympique de Marseille,78,Right,4,Normal,CAM,17.0,78.0,79.0,77.0,81.0,44.0,64.0
+K. Mitroglou,26,189,94,Greece,Olympiacos CFP,78,Left,3,Normal,ST,7.0,63.0,79.0,62.0,76.0,29.0,77.0
+M. Kruse,26,180,76,Germany,Borussia Mönchengladbach,78,Left,3,Normal,RS,10.0,75.0,78.0,76.0,80.0,42.0,74.0
+Y. M'Vila,24,182,80,France,Inter,78,Right,2,Normal,SUB,90.0,77.0,64.0,70.0,74.0,77.0,77.0
+Camacho,24,182,75,Spain,Málaga CF,78,Right,2,Normal,RDM,6.0,66.0,47.0,69.0,65.0,77.0,81.0
+R. Hamouma,27,177,74,France,AS Saint-Étienne,78,Right,3,Normal,RM,21.0,84.0,73.0,75.0,80.0,44.0,64.0
+O. Baumann,24,187,80,Germany,TSG 1899 Hoffenheim,78,Right,1,Normal,GK,1.0,,,,,,
+Joãozinho,25,166,61,Brazil,FC Krasnodar,78,Left,3,Normal,LW,22.0,88.0,75.0,78.0,79.0,60.0,52.0
+J. Mikel,27,188,83,Nigeria,Chelsea,78,Right,2,Normal,SUB,12.0,61.0,53.0,69.0,68.0,78.0,88.0
+Coke,27,176,72,Spain,Sevilla FC,78,Right,2,Normal,RB,23.0,77.0,62.0,68.0,71.0,76.0,74.0
+J. Lens,26,178,73,Netherlands,Netherlands,78,Right,4,Normal,,,86.0,75.0,70.0,81.0,31.0,71.0
+L. Stindl,25,180,78,Germany,Hannover 96,78,Right,3,Normal,SUB,10.0,76.0,78.0,77.0,77.0,71.0,76.0
+M. Diouf,26,185,79,Senegal,Stoke City,78,Right,3,Normal,SUB,18.0,86.0,77.0,55.0,68.0,33.0,75.0
+M. Schmelzer,26,181,74,Germany,Borussia Dortmund,78,Left,2,Normal,LB,29.0,77.0,53.0,69.0,70.0,79.0,78.0
+S. Reinartz,25,189,87,Germany,Bayer 04 Leverkusen,78,Right,2,Normal,SUB,3.0,59.0,55.0,67.0,51.0,82.0,85.0
+Y. Rakitskyi,24,180,70,Ukraine,Shakhtar Donetsk,78,Left,2,Normal,LCB,44.0,68.0,62.0,71.0,71.0,81.0,77.0
+Arribas,25,185,77,Spain,Sevilla FC,78,Right,2,Lean,SUB,24.0,61.0,37.0,55.0,55.0,80.0,78.0
+Z. Tošić,27,171,68,Serbia,PFC CSKA Moscow,78,Left,4,Normal,RM,7.0,89.0,76.0,74.0,84.0,30.0,54.0
+B. Costil,26,187,83,France,Stade Rennais FC,78,Right,1,Normal,GK,1.0,,,,,,
+R. Shawcross,26,191,76,England,Stoke City,78,Right,2,Normal,RCB,17.0,62.0,43.0,51.0,49.0,80.0,84.0
+M. Stranzl,34,191,83,Austria,Borussia Mönchengladbach,78,Right,2,Normal,RCB,39.0,54.0,44.0,55.0,52.0,81.0,78.0
+T. Henry,36,188,83,France,New York Red Bulls,78,Right,4,Normal,LM,14.0,72.0,75.0,74.0,81.0,28.0,61.0
+S. Kehl,34,188,80,Germany,Borussia Dortmund,78,Left,2,Normal,LDM,5.0,49.0,62.0,69.0,66.0,79.0,76.0
+B. Friedel,43,188,92,United States,Tottenham Hotspur,78,Right,1,Stocky,SUB,24.0,,,,,,
+Ricardo Costa,33,183,80,Portugal,Portugal,78,Right,2,Stocky,,,54.0,37.0,44.0,52.0,77.0,83.0
+K. Källström,31,185,83,Sweden,Spartak Moscow,78,Left,3,Normal,CDM,21.0,56.0,76.0,83.0,73.0,64.0,75.0
+Joaquín,32,179,75,Spain,Fiorentina,78,Right,3,Normal,SUB,17.0,75.0,71.0,80.0,80.0,29.0,59.0
+D. Forlán,35,180,78,Uruguay,Uruguay,78,Right,3,Normal,,,66.0,81.0,79.0,80.0,28.0,66.0
+Moyá,30,189,82,Spain,Atlético Madrid,78,Right,1,Normal,GK,1.0,,,,,,
+Iraizoz,33,191,89,Spain,Athletic Club de Bilbao,78,Right,1,Normal,GK,1.0,,,,,,
+Rubén Castro,33,174,72,Spain,Real Betis,78,Right,3,Normal,LM,24.0,83.0,78.0,62.0,80.0,31.0,62.0
+K. Touré,33,178,76,Ivory Coast,Liverpool,78,Right,2,Normal,SUB,4.0,74.0,62.0,60.0,53.0,78.0,80.0
+A. Di Natale,36,170,68,Italy,Udinese,78,Right,3,Normal,RS,10.0,78.0,82.0,81.0,82.0,29.0,57.0
+S. Rolfes,32,191,83,Germany,Bayer 04 Leverkusen,78,Left,2,Lean,SUB,6.0,57.0,64.0,76.0,68.0,79.0,75.0
+B. Yılmaz,28,188,80,Turkey,Galatasaray SK,78,Right,3,Normal,LS,17.0,83.0,78.0,66.0,70.0,37.0,80.0
+M. Topal,28,187,82,Turkey,Fenerbahçe SK,78,Right,2,Normal,RDM,5.0,70.0,65.0,69.0,67.0,80.0,81.0
+A. Hutchinson,31,187,73,Canada,Beşiktaş JK,78,Right,2,Lean,RDM,13.0,76.0,64.0,74.0,74.0,78.0,82.0
+Lee Dong Gook,35,187,83,Korea Republic,Korea Republic,78,Right,3,Normal,ST,20.0,65.0,82.0,72.0,68.0,32.0,68.0
+G. Pandev,30,184,74,FYR Macedonia,Galatasaray SK,78,Left,3,Normal,SUB,19.0,73.0,77.0,76.0,80.0,37.0,68.0
+E. Cambiasso,33,177,78,Argentina,Leicester City,78,Left,2,Normal,SUB,19.0,59.0,72.0,75.0,72.0,76.0,75.0
+J. Milner,28,176,70,England,Manchester City,78,Right,3,Stocky,LM,7.0,68.0,75.0,81.0,75.0,68.0,74.0
+A. Mirante,30,193,79,Italy,Parma,78,Right,1,Lean,GK,83.0,,,,,,
+E. Spahić,33,186,81,Bosnia Herzegovina,Bayer 04 Leverkusen,78,Left,2,Normal,LCB,5.0,57.0,40.0,60.0,47.0,79.0,74.0
+D. Milito,35,183,78,Argentina,Racing Club,78,Right,2,Normal,LS,22.0,67.0,77.0,64.0,78.0,28.0,63.0
+O. Adın,28,176,75,Turkey,Galatasaray SK,78,Left,3,Normal,SUB,29.0,84.0,75.0,77.0,80.0,61.0,70.0
+E. Korkmaz,31,183,83,Turkey,Fenerbahçe SK,78,Left,2,Stocky,SUB,2.0,64.0,42.0,44.0,54.0,79.0,83.0
+I. Uche,30,175,73,Nigeria,Villarreal CF,78,Right,4,Normal,RS,8.0,86.0,78.0,58.0,80.0,32.0,74.0
+Mikel Rico,29,178,76,Spain,Athletic Club de Bilbao,78,Right,3,Lean,LCM,17.0,68.0,72.0,73.0,70.0,73.0,81.0
+Javi Fuego,30,181,76,Spain,Valencia CF,78,Right,3,Normal,LCM,18.0,67.0,60.0,73.0,66.0,74.0,81.0
+A. Samedov,29,177,75,Russia,Lokomotiv Moscow,78,Right,3,Lean,RAM,19.0,81.0,71.0,79.0,77.0,49.0,71.0
+V. Berezutskiy,32,189,87,Russia,PFC CSKA Moscow,78,Right,2,Normal,RCB,24.0,50.0,38.0,58.0,47.0,81.0,81.0
+A. Young,28,175,65,England,Manchester United,78,Right,4,Lean,SUB,18.0,86.0,73.0,75.0,81.0,34.0,53.0
+A. Gignac,28,186,84,France,Olympique de Marseille,78,Right,3,Stocky,ST,9.0,72.0,81.0,72.0,74.0,33.0,73.0
+Y. Zhirkov,30,180,75,Russia,Dinamo Moscow,78,Left,3,Lean,LM,18.0,77.0,68.0,78.0,76.0,69.0,73.0
+A. McGeady,28,180,73,Republic of Ireland,Everton,78,Right,5,Normal,RM,7.0,86.0,70.0,71.0,85.0,41.0,65.0
+cat,cat,num,num,catf,cat,num,cat,cat,cat,cat,num,num,num,num,num,num,num,num
